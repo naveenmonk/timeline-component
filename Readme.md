@@ -1,3 +1,3 @@
 # Timeline-Component
 
-# Live-demo:
+# Live-demo: https://naveenmonk.github.io/timeline-component/
